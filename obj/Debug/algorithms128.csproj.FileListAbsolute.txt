@@ -1,0 +1,6 @@
+C:\Users\tomke\Documents\Visual Studio 2015\Projects\algorithms128\algorithms128\bin\Debug\algorithms128.exe.config
+C:\Users\tomke\Documents\Visual Studio 2015\Projects\algorithms128\algorithms128\bin\Debug\algorithms128.exe
+C:\Users\tomke\Documents\Visual Studio 2015\Projects\algorithms128\algorithms128\bin\Debug\algorithms128.pdb
+C:\Users\tomke\Documents\Visual Studio 2015\Projects\algorithms128\algorithms128\obj\Debug\algorithms128.exe
+C:\Users\tomke\Documents\Visual Studio 2015\Projects\algorithms128\algorithms128\obj\Debug\algorithms128.pdb
+C:\Users\tomke\Documents\Visual Studio 2015\Projects\algorithms128\algorithms128\obj\Debug\algorithms128.csprojResolveAssemblyReference.cache
